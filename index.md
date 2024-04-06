@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Sailing with Aeoli
 ---
 
+This is the home page for our blog!
