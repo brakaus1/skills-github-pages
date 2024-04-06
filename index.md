@@ -2,4 +2,4 @@
 title: Sailing with Aeoli
 ---
 
-This is the home page for our blog!
+This is the home page for our blogo!
